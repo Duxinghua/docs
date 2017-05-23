@@ -1,1 +1,1 @@
-# docs
+# bitpie-docs
