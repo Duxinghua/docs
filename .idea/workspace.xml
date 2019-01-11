@@ -1,7 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c7859cb-3241-4124-a48f-fcb0415be4aa" name="Default" comment="" />
+    <list default="true" id="4c7859cb-3241-4124-a48f-fcb0415be4aa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/environment.pickle" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/environment.pickle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/AddressBook/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/AddressBook/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/BankCard/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/BankCard/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Download/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/Download/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Expie/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/Expie/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/FAQ/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/FAQ/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Function/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/Function/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/InstantTrade/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/InstantTrade/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Introduction/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/Introduction/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/MessageSigning/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/MessageSigning/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/MultiCurrency/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/MultiCurrency/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/RegisterAndRecover/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/RegisterAndRecover/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/SendAndReceive/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/SendAndReceive/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/TxAcelerate/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/TxAcelerate/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/VerificationOfIdentity/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/VerificationOfIdentity/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/anotherAssets/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/anotherAssets/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitcoinFork/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/bitcoinFork/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitherImportPrivateKeyToken/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/bitherImportPrivateKeyToken/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitherbcc/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/bitherbcc/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitpiebcc/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/bitpiebcc/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbcc/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbcc/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbtg/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbtg/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbtw/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbtw/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcsbtc/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/btcsbtc/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/commoncontract/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/commoncontract/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosaccount/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosaccount/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosleased/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosleased/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosmainchain/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosmainchain/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosram/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosram/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosresourcessos/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosresourcessos/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosscan/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosscan/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosvote/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosvote/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/etherscantokenupdate/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/etherscantokenupdate/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/financialplan/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/financialplan/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/invitedFriends/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/invitedFriends/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/otc/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/otc/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/piestore/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/piestore/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/privateKeyImport/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/privateKeyImport/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/tokenFactory/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/tokenFactory/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/vip/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/vip/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/AddressBook/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/AddressBook/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/BankCard/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/BankCard/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/Download/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/Download/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/Expie/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/Expie/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/FAQ/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/FAQ/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/Function/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/Function/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/InstantTrade/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/InstantTrade/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/Introduction/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/Introduction/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/MessageSigning/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/MessageSigning/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/MultiCurrency/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/MultiCurrency/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/RegisterAndRecover/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/RegisterAndRecover/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/SendAndReceive/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/SendAndReceive/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/TxAcelerate/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/TxAcelerate/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/VerificationOfIdentity/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/VerificationOfIdentity/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/anotherAssets/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/anotherAssets/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/bitcoinFork/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/bitcoinFork/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/bitherImportPrivateKeyToken/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/bitherImportPrivateKeyToken/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/bitherbcc/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/bitherbcc/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/bitpiebcc/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/bitpiebcc/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/btcbcc/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/btcbcc/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/btcbtg/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/btcbtg/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/btcbtw/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/btcbtw/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/btcsbtc/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/btcsbtc/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/commoncontract/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/commoncontract/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosaccount/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosaccount/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosleased/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosleased/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosmainchain/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosmainchain/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosram/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosram/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosresourcessos/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosresourcessos/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosscan/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosscan/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosvote/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosvote/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/etherscantokenupdate/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/etherscantokenupdate/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/financialplan/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/financialplan/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/invitedFriends/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/invitedFriends/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/otc/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/otc/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/piestore/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/piestore/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/privateKeyImport/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/privateKeyImport/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/tokenFactory/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/tokenFactory/index.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/vip/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/vip/index.pot" />
+    </list>
     <ignored path="docs.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -31,11 +113,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eosaccount/index.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
               <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FAQ/index.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2046">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,10 +161,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="729" />
-    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="723" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -119,6 +209,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Function" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FAQ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -127,6 +245,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v4.5.0/bin/node" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -375,10 +494,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="729" y="23" width="1280" height="723" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -733,6 +852,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FAQ/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2046">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
