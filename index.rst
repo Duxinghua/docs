@@ -30,7 +30,6 @@
    coinprivatekey/index
    anotherAssets/index
    eosaccount/index
-   eosback/index
    eosresourcessos/index
    eosleased/index
    eosscan/index
@@ -46,4 +45,3 @@
    tokenFactory/index
    etherscantokenupdate/index
    FAQ/index
-   FAQ2/index
