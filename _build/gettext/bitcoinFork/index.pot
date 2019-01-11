@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 3.8.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-11 13:38+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../bitcoinFork/index.rst:2
+msgid "分叉币领取"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:4
+msgid "1、按照分叉币 BTW 为例，其他分叉币的领取参考此文档。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:6
+msgid "2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW 、BCD 、BTF 、BTP、BTN、CDY、SAFE、LCH。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:8
+msgid "3､ 需要在分叉块高度，您的比特派/比太钱包地址里有币，或者比特派的派银行里有币，符合领取条件才可以领取分叉币。分叉币的详细信息请参考： http://pieifo.com 。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:12
+msgid "比特派钱包获取分叉币"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:14
+msgid "1、更新到最新版本，版本号 >= 2.4.3 ，设置底部查看版本号并且可以“检查新版本”。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:16
+msgid "2、打开比特派会自动提示'您可领取 Bitcoin World ，领取'。如果没有提示，下拉刷新试下。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:24
+msgid "3、选择领取。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:40
+msgid "比太钱包获取分叉币"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:44
+msgid "比太钱包支持相同BIP规范的私钥或者密语导入，您如果使用其他比特币钱包软件，可以将私钥导入比太钱包，获取 BTW。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:46
+msgid "教程：http://docs.bitpie.com/zh_CN/latest/bitherImportPrivateKeyToken/index.html"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:48
+msgid "1、更新到最新版本，版本号 >= 1.7.9 ，通过比太热钱包进行操作。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:52
+msgid "2、设置-高级选项-获取分叉币-获得 BTW 。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:71
+msgid "3、选择相对应的账户地址，输入比特派 BTW 地址及密码。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:88
+msgid "如果是比太热钱包监控冷钱包，获得确认之后需要进行签名交易。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:90
+msgid "1、选择相对应的账户地址。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:99
+msgid "2、输入比特派 BTW 地址。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:108
+msgid "3、用冷钱包扫描热钱包待签名交易。使用包含此地址私钥的冷钱包扫描。"
+msgstr ""
+
+#: ../../bitcoinFork/index.rst:117
+msgid "4、用热钱包扫描冷钱包已签名的交易。"
+msgstr ""
+

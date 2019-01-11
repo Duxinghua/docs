@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 3.8.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-11 13:38+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../tokenFactory/index.rst:2
+msgid "Token 工厂"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:6
+msgid "正式 Token 工厂 (ERC20)"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:8
+msgid "创建属于自己的 ERC20 代币，简单方便快捷。"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:10
+#: ../../tokenFactory/index.rst:38
+msgid "1、Bitpie APP 版本大于 3.1.1 。"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:12
+msgid "2、创建 Token 需要支付服务费 1.0ETH，在创建时请先保障您的 ETH 余额大于 1.0ETH。"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:14
+msgid "3､ 钱包首页－全部－选择 Token 工厂-正式。"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:16
+msgid "4､ 输入对应的总量、名称（大小写字母，空格）、单位、符号（大写字母）、上传图标，选择创建。"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:26
+msgid "5､ 创建成功之后您所创建的 Token 将全部发住您的 ETH 地址中。"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:33
+msgid "测试 Token 工厂 (ERC20)"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:35
+msgid "创建测试 Token 免服务费，但是符合会添加 TEST-前缀。测试需要一点矿工费。测试 Token 工厂是为了让用户更好的了解 Token 工厂。"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:40
+msgid "2､ 钱包首页－全部－选择 Token 工厂－测试。"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:42
+msgid "3、输入对应的总量、名称（大小写字母，空格）、单位、符号（大写字母）、上传图标，选择创建。"
+msgstr ""
+
+#: ../../tokenFactory/index.rst:60
+msgid "4､ 创建成功之后您所创建的 Token 将全部发住您的 ETH 地址中。"
+msgstr ""
+

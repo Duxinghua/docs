@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 3.8.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-11 13:38+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../btcsbtc/index.rst:2
+msgid "获取SBTC"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:5
+msgid "比特派钱包获取 SBTC"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:7
+msgid "1、更新到最新版本，版本号 >= 2.4.0 ，设置底部查看版本号并且可以“检查新版本”。"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:9
+msgid "2、打开比特派会自动提示'您可领取 SuperBitcoin，领取'。"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:17
+msgid "3、选择领取。"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:27
+msgid "比太钱包获取 SBTC"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:31
+msgid "比太钱包支持相同BIP规范的私钥或者密语导入，您如果使用其他比特币钱包软件，可以将私钥导入比太钱包，获取SBTC。"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:33
+msgid "教程：http://docs.bitpie.com/zh_CN/latest/bitherImportPrivateKeyToken/index.html"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:35
+msgid "1、更新比太钱包 v1.7.8 ，通过比太热钱包进行操作。"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:39
+msgid "2、设置-高级选项-获取 SBTC。"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:50
+msgid "3、选择相对应的账户地址，输入比特派 SBTC 地址及密码。"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:67
+msgid "如果是比太热钱包监控冷钱包，获得确认之后需要进行签名交易。"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:69
+msgid "1、选择相对应的账户地址。"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:78
+msgid "2、输入比特派 SBTC 地址。"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:87
+msgid "3、用冷钱包扫描热钱包待签名交易。使用包含此地址私钥的冷钱包扫描。"
+msgstr ""
+
+#: ../../btcsbtc/index.rst:96
+msgid "4、用热钱包扫描冷钱包已签名的交易。"
+msgstr ""
+

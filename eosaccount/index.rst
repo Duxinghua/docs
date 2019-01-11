@@ -27,14 +27,6 @@ EOS 账户创建
 3、进入 EOS 账户页面。输入 EOS 账户，选择下一步。
 
 
-.. image:: ../img/account_eos_input.jpg
-    :width: 320px
-    :height: 658px
-    :scale: 100%
-    :align: center
-
-
-
     备注：账户名只支持数字1-5，小写字母a-z，长度12位。并且账户名不能被占用。
 
 4、进入确认账户信息页面。选择支付方式。在这里选择支付宝。选择立即创建。
