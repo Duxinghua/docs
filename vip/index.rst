@@ -17,12 +17,6 @@ VIP OTC 功能
 
 
 
-..  image:: ../img/vip.png
-    :width: 320px
-    :height: 520px
-    :scale: 100%
-    :align: center
-
 
 准备工作
 ^^^^^^^^^^^^^^^^^
@@ -41,11 +35,6 @@ VIP OTC 功能
 2. 选择类型：出售，购买。出售就是你卖币给别人，购买就是别人卖币给你；币种：目前只支持人民币；总币数量：出售币数或者购买币数（总币数量不能大于比特派钱包余额）；单价：需设置，根据自己的实际情况设置；最小买币币数：根据实际需求设置；限时：最大时间为100天；广告信息：根据自己需求填写。
 3. 保存广告即可发布广告。
 
-..  image:: ../img/vip_create.png
-    :width: 320px
-    :height: 520px
-    :scale: 100%
-    :align: center
 
 
 编辑广告
@@ -78,12 +67,6 @@ VIP OTC 功能
 ^^^^^^^^^^^^^^^
 
 下单方到VIP盘口广告列表里，选择合适的卖家。
-
-..  image:: ../img/vip_order.png
-    :width: 320px
-    :height: 520px
-    :scale: 100%
-    :align: center
 
 广告方
 -----------

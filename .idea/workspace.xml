@@ -2,87 +2,744 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c7859cb-3241-4124-a48f-fcb0415be4aa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/environment.pickle" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/environment.pickle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/AddressBook/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/AddressBook/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/BankCard/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/BankCard/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Download/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/Download/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Expie/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/Expie/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/FAQ/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/FAQ/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Function/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/Function/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/InstantTrade/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/InstantTrade/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Introduction/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/Introduction/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/MessageSigning/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/MessageSigning/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/MultiCurrency/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/MultiCurrency/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/RegisterAndRecover/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/RegisterAndRecover/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/SendAndReceive/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/SendAndReceive/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/TxAcelerate/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/TxAcelerate/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/VerificationOfIdentity/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/VerificationOfIdentity/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/anotherAssets/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/anotherAssets/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitcoinFork/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/bitcoinFork/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitherImportPrivateKeyToken/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/bitherImportPrivateKeyToken/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitherbcc/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/bitherbcc/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitpiebcc/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/bitpiebcc/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbcc/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbcc/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbtg/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbtg/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbtw/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbtw/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcsbtc/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/btcsbtc/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/commoncontract/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/commoncontract/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosaccount/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosaccount/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosleased/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosleased/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosmainchain/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosmainchain/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosram/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosram/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosresourcessos/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosresourcessos/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosscan/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosscan/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosvote/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/eosvote/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/etherscantokenupdate/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/etherscantokenupdate/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/financialplan/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/financialplan/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/invitedFriends/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/invitedFriends/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/otc/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/otc/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/piestore/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/piestore/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/privateKeyImport/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/privateKeyImport/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/tokenFactory/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/tokenFactory/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/vip/index.doctree" afterPath="$PROJECT_DIR$/_build/gettext/.doctrees/vip/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/AddressBook/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/AddressBook/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/BankCard/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/BankCard/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/Download/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/Download/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/Expie/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/Expie/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/FAQ/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/FAQ/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/Function/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/Function/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/InstantTrade/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/InstantTrade/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/Introduction/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/Introduction/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/MessageSigning/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/MessageSigning/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/MultiCurrency/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/MultiCurrency/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/RegisterAndRecover/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/RegisterAndRecover/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/SendAndReceive/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/SendAndReceive/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/TxAcelerate/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/TxAcelerate/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/VerificationOfIdentity/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/VerificationOfIdentity/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/anotherAssets/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/anotherAssets/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/bitcoinFork/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/bitcoinFork/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/bitherImportPrivateKeyToken/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/bitherImportPrivateKeyToken/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/bitherbcc/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/bitherbcc/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/bitpiebcc/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/bitpiebcc/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/btcbcc/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/btcbcc/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/btcbtg/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/btcbtg/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/btcbtw/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/btcbtw/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/btcsbtc/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/btcsbtc/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/commoncontract/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/commoncontract/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosaccount/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosaccount/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosleased/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosleased/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosmainchain/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosmainchain/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosram/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosram/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosresourcessos/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosresourcessos/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosscan/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosscan/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/eosvote/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/eosvote/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/etherscantokenupdate/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/etherscantokenupdate/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/financialplan/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/financialplan/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/invitedFriends/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/invitedFriends/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/otc/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/otc/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/piestore/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/piestore/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/privateKeyImport/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/privateKeyImport/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/tokenFactory/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/tokenFactory/index.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/gettext/vip/index.pot" afterPath="$PROJECT_DIR$/_build/gettext/vip/index.pot" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AddressBook/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankCard/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Download/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Expie/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FAQ/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Function/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InstantTrade/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Introduction/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MessageSigning/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MultiCurrency/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RegisterAndRecover/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SendAndReceive/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TxAcelerate/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VerificationOfIdentity/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/AddressBook/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/BankCard/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/FAQ/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/Function/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/InstantTrade/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/Introduction/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/MessageSigning/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/MultiCurrency/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/Overview/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/RegisterAndRecover/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/SendAndReceive/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/TxAcelerate/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/VerificationOfIdentity/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/address/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/btc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/collection/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/download/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/environment.pickle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/id/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/note/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/otc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/password/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/raq/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/send/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/soft/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/tx/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/version/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/doctrees/vip/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/AddressBook/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/BankCard/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Download/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Expie/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/FAQ/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/FAQ2/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Function/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/InstantTrade/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/Introduction/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/MessageSigning/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/MultiCurrency/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/RegisterAndRecover/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/SendAndReceive/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/TxAcelerate/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/VerificationOfIdentity/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/address/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/anotherAssets/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitcoinFork/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitherImportPrivateKeyToken/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitherbcc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/bitpiebcc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbcc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbtg/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcbtw/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/btcsbtc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/coinprivatekey/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/coinswap/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/collection/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/commoncontract/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/cpulcecream/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/cpulease/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/dappbrowser/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/environment.pickle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosaccount/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosback/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosleased/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosmainchain/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosram/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosresourcessos/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosscan/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/eosvote/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/etherscantokenupdate/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/financialplan/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/id/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/invitedFriends/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/note/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/otc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/password/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/piestore/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/privateKeyImport/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/raq/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/send/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/soft/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/tokenFactory/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/tx/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/version/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/.doctrees/vip/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/AddressBook/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/BankCard/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/Download/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/Expie/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/FAQ/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/FAQ2/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/Function/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/InstantTrade/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/Introduction/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/MessageSigning/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/MultiCurrency/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/RegisterAndRecover/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/SendAndReceive/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/TxAcelerate/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/VerificationOfIdentity/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/address/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/anotherAssets/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bitcoinFork/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bitherImportPrivateKeyToken/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bitherbcc/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/bitpiebcc/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/btc/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/btcbcc/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/btcbtg/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/btcbtw/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/btcsbtc/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/coinprivatekey/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/coinswap/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/collection/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/commoncontract/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/cpulcecream/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/cpulease/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/dappbrowser/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/eosaccount/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/eosback/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/eosleased/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/eosmainchain/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/eosram/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/eosresourcessos/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/eosscan/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/eosvote/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/etherscantokenupdate/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/financialplan/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/id/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/invitedFriends/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/note/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/otc/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/password/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/piestore/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/privateKeyImport/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/raq/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/send/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/soft/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/tokenFactory/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/tx/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/version/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/gettext/vip/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/.buildinfo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/AddressBook/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/BankCard/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/FAQ/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/Function/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/InstantTrade/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/Introduction/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/MessageSigning/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/MultiCurrency/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/Overview/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/RegisterAndRecover/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/SendAndReceive/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/TxAcelerate/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/VerificationOfIdentity/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/account.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/account_my.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/account_order_instant_trade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/account_order_otc_trade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/account_setting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/ad_list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/ad_prepare.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/ad_setting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/addressNote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/address_book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/address_book_add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/address_book_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/bankcard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/bitpielogic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/create.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/instant_buy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/instant_sell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/introduction_bitpielogic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/introduction_logo_bitpie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/logo_bitpie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/msg_sig_address.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/msg_sig_message.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/msg_sig_verify.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/multi_currency.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/password-code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/received_address.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/recover_seed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/recover_view_seed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/register_alert.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/register_seed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/send.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/send_confirm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/tx_accelerat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/tx_accelerat_detail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/tx_accelerat_detail_confirm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/vip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/vip_create.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/vip_order.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_images/viporder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/AddressBook/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/BankCard/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/FAQ/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/Function/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/InstantTrade/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/Introduction/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/MessageSigning/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/MultiCurrency/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/Overview/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/RegisterAndRecover/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/SendAndReceive/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/TxAcelerate/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/VerificationOfIdentity/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/address/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/btc/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/collection/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/download/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/id/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/note/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/otc/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/password/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/raq/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/send/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/soft/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/tx/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/version/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_sources/vip/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/basic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/classic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/comment-bright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/comment-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/doctools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/down-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/file.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/jquery-3.1.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/minus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/pygments.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/searchtools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/sidebar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/translations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/underscore-1.3.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/underscore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/up-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/_static/websupport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/address/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/btc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/collection/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/download/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/genindex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/id/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/note/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/objects.inv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/otc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/password/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/raq/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/searchindex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/send/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/soft/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/tx/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/version/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_build/html/vip/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anotherAssets/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitcoinFork/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitherImportPrivateKeyToken/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitherbcc/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitpiebcc/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/btcbcc/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/btcbtg/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/btcbtw/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/btcsbtc/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commoncontract/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eosaccount/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eosleased/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eosmainchain/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eosram/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eosresourcessos/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eosscan/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eosvote/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etherscantokenupdate/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/financialplan/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BCCmessage.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BCCmessage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BCCpage.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BCCpage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BCCswitch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BTGmessage.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BTGmessage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BitcoinCash.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BitcoinCash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Bitcoinbtg.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Bitcoinbtg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Bitcoinsbtc.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Bitcoinsbtc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/DetectETCAssets.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/DetectETCAssets.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/DetectETHAssets.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/DetectETHAssets.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_alipay_go.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_alipay_go.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_eos_alipay.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_eos_alipay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_eos_detail.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_eos_detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_eos_input.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_eos_pay.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_eos_pay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_eos_select.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_eos_select.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_home_page.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_home_page.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_my.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_my.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_order_instant_trade.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_order_instant_trade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_order_otc_trade.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_order_otc_trade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_pay.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_setting.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/account_setting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ad_list.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ad_list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ad_prepare.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ad_prepare.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ad_setting.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ad_setting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/addCheckBcc.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/addCheckBcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/addCheckBtc.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/addCheckBtc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/addressNote.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/addressNote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/address_book.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/address_book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/address_book_add.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/address_book_add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/address_book_edit.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/address_book_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/allmenu.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/allmenu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/alreadygetBtw.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/alreadygetBtw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/alreadygetSbtc.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/alreadygetSbtc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bankcard.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bankcard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bchbtcdeposit.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bchbtcdeposit.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bchbtcdeposit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bchbtcdeposit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup1.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup2.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup3.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup4.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup5.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup6.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup7.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithdsetup7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitherBcc.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitherBcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitherBtg.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitherBtg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithergetSbtc.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithergetSbtc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithergetbtws.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithergetbtws.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bithergetbtws.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpieGetBtw.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpieGetBtw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpie_private_key_import.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpie_private_key_import.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiecoinbtp.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiecoinbtp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiecoinlist.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiecoinlist.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiecoinopen.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiecoinopen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpieexpie.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpieexpie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiefound.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiefound.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpielogic.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpielogic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpieme.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpieme.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiesetting.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiesetting.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiewallet.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bitpiewallet.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/btc_flow.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/btc_flow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/btc_monthly.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/btc_monthly.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/btc_with_bank.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/btc_with_bank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/btcdetail.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/btcdetail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/btchistory.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/btchistory.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/buy_btc_bank.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/buy_btc_bank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/checkBcc.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/checkBcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/checkBtc.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/checkBtc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/checkResult.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/checkResult.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/check_btc_account.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/check_btc_account.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/choose.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/choose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/choose_btc_buy.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/choose_btc_buy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/choose_btc_mon.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/choose_btc_mon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/choose_monthly.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/choose_monthly.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/choosebtg.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/choosebtg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/coldAddress.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/coldAddress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/coldBcc.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/coldBcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/coldBtwAddress.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/coldBtwAddress.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/create.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/create.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/detectetc.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/detectetc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/detecteth.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/detecteth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/download.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eon.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_cpu.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_cpu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_cpu_op.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_cpu_op.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_cpu_other.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_cpu_other.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_cpu_sos.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_cpu_sos.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_createing.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_createing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_login_confrim.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_login_confrim.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_resources_list.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_resources_list.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_scan_login.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eos_scan_login.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosaccountname.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosaccountname.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosaccountoption.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosaccountoption.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosaccountvote.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosaccountvote.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosaddress.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosaddress.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosconfrim.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosconfrim.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eoscreate.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eoscreate.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosfee.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosfee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eoshomepage.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eoshomepage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosram.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosram.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosrambuy.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosrambuy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosrampage.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosrampage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosregister.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosregister.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosretrieve.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosretrieve.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eossend.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eossend.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosvote.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosvote.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosvoteall.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosvoteall.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosvoteinput.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosvoteinput.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosvoteop.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosvoteop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosvoteresult.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eosvoteresult.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eoswalletpage.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/eoswalletpage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ethmeer.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ethmeer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ethsing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ethsinged.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ethsingstell.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/exchangebchbtc.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/exchangebchbtc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/expiebtcdeps.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/expiebtcdeps.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/extractBtc.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/extractBtc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getBcc.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getBcc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getBtw.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getBtw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getBtwbitpieAddress.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getBtwbitpieAddress.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getSbtcbitpieAddress.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getSbtcbitpieAddress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getbtg.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getbtg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getbtw.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getbtw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getforcoin.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getforcoin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hotscan.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hotscan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hotsing.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hotsing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/importinbither.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/importinbither.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/instant_buy.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/instant_buy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/instant_sell.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/instant_sell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/introduction_bitpielogic.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/introduction_bitpielogic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/introduction_logo_bitpie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/inviteddownload.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/inviteddownload.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/invitedget.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/invitedget.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/invitedphone.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/invitedphone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/invitefriends.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/invitefriends.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/invitelink.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/invitelink.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/inviterewards.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/inviterewards.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/key_hd_confirm.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/key_hd_confirm.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/key_hd_confirm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/key_hd_confirm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/key_import_options.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/key_import_options.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/key_input.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/key_input.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/key_input.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo_bitpie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/msg_sig_address.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/msg_sig_address.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/msg_sig_message.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/msg_sig_message.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/msg_sig_verify.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/msg_sig_verify.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/multi_currencys.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/multi_currencys.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/my_address.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/my_address.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nomarl.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nomarl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ongoingplan.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ongoingplan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/password-code.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/password-code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie_bank.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pie_bank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/private_key_hd.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/private_key_hd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/received_address.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/received_address.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/recover_seed.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/recover_seed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/recover_view_seed.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/recover_view_seed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/register_alert.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/register_alert.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/register_recover.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/register_recover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/register_seed.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/register_seed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sbtcmess.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sbtcmess.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/segwit.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/segwit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sellexchangebtc.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sellexchangebtc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/send.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/send.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/send_confirm.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/send_confirm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sign.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/singverify.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tokencontract.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tokenerc20.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tokenerc20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tokenfactory.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tokenfactory.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tokenfactoryfee.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tokenfactoryfee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tokensing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tokenupdate.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/totalassets.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/totalassets.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tx_accelerat.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tx_accelerat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tx_accelerat_detail.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tx_accelerat_detail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tx_accelerat_detail_confirm.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tx_accelerat_detail_confirm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/verifyeos.en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/verifyeos.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vip.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vip_create.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vip_create.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vip_order.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/vip_order.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/viporder.en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/viporder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/invitedFriends/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/AddressBook/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/AnotherAssets/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/BankCard/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/BitherBcc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/BitpieBcc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/BtcBcc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/Download/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/Expie/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/FAQ/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/Function/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/InstantTrade/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/Introduction/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/MessageSigning/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/MultiCurrency/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/OTC/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/RegisterAndRecover/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/SendAndReceive/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/TxAcelerate/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/VIP/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/VerificationOfIdentity/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/_site/AddressBook/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/_site/anotherAssets/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/_site/bitherbcc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/_site/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/address/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/bitcoinFork/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/bitherImportPrivateKeyToken/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/btc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/btcbtg/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/btcbtw/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/btcsbtc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/claim/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/collection/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/commonContract/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/eosaccount/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/eosleased/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/eosmainchain/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/eosram/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/eosresourcessos/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/eosscan/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/eosvote/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/etherscantokenupdate/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/financialPlan/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/id/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/invitedFriends/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/note/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/password/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/pieBank/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/piestore/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/privateKeyImport/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/raq/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/send/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/soft/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/tokenFactory/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/tx/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/LC_MESSAGES/version/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/otc/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/piestore/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/privateKeyImport/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tokenFactory/index.rst" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.rst" afterPath="$PROJECT_DIR$/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vip/index.rst" afterPath="$PROJECT_DIR$/vip/index.rst" />
     </list>
     <ignored path="docs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -103,7 +760,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="conf.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="conf.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -114,29 +771,22 @@
         </entry>
       </file>
       <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eosaccount/index.rst">
+        <entry file="file://$PROJECT_DIR$/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FAQ/index.rst">
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vip/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2046">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="489">
+              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="account_eos_input.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/account_eos_input.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -151,6 +801,8 @@
         <option value="$PROJECT_DIR$/source/index.rst" />
         <option value="$PROJECT_DIR$/source/address/index.rst" />
         <option value="$PROJECT_DIR$/eosaccount/index.rst" />
+        <option value="$PROJECT_DIR$/index.rst" />
+        <option value="$PROJECT_DIR$/vip/index.rst" />
       </list>
     </option>
   </component>
@@ -219,21 +871,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Function" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FAQ" />
+              <option name="myItemId" value="vip" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -835,14 +1473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/account_eos_input.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -859,6 +1489,30 @@
     <entry file="file://$PROJECT_DIR$/FAQ/index.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2046">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vip/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
