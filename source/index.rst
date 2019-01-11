@@ -11,8 +11,7 @@ Welcome to bitpie's documentation!
    :caption: Contents:
 
 
-   Introduction/index
-
+   test/index
 
 
 
