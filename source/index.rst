@@ -11,6 +11,35 @@ Welcome to bitpie's documentation!
    :caption: Contents:
 
 
+   Introduction/index
+   Download/index
+   Function/index
+   RegisterAndRecover/index
+   VerificationOfIdentity/index
+   SendAndReceive/index
+   TxAcelerate/index
+   AddressBook/index
+   Expie/index
+   piestore/index
+   MessageSigning/index
+   BankCard/index
+   MultiCurrency/index
+   bitherImportPrivateKeyToken/index
+   anotherAssets/index
+   eosaccount/index
+   eosresourcessos/index
+   eosleased/index
+   eosscan/index
+   eosmainchain/index
+   eosram/index
+   eosvote/index
+   invitedFriends/index
+   privateKeyImport/index
+   tokenFactory/index
+   etherscantokenupdate/index
+   FAQ/index
+
+
 
 Indices and tables
 ==================
