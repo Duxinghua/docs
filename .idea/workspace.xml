@@ -2,6 +2,100 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c7859cb-3241-4124-a48f-fcb0415be4aa" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/AddressBook/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/BankCard/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/Download/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/Expie/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/FAQ/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/Function/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/InstantTrade/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/MessageSigning/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/MultiCurrency/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/RegisterAndRecover/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/SendAndReceive/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/TxAcelerate/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/VerificationOfIdentity/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/anotherAssets/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/bitcoinFork/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/bitherImportPrivateKeyToken/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/bitherbcc/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/bitpiebcc/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/btcbcc/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/btcbtg/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/btcbtw/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/btcsbtc/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/commoncontract/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/eosaccount/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/eosleased/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/eosmainchain/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/eosram/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/eosresourcessos/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/eosscan/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/eosvote/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/etherscantokenupdate/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/financialplan/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/invitedFriends/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/AddressBook/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/AnotherAssets/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/BankCard/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/BitherBcc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/BitpieBcc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/BtcBcc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/Download/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/Expie/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/FAQ/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/Function/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/InstantTrade/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/MessageSigning/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/MultiCurrency/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/OTC/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/RegisterAndRecover/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/SendAndReceive/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/TxAcelerate/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/VIP/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/VerificationOfIdentity/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/_site/AddressBook/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/_site/anotherAssets/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/_site/bitherbcc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/_site/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/address/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/bitcoinFork/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/bitherImportPrivateKeyToken/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/btc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/btcbtg/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/btcbtw/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/btcsbtc/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/claim/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/collection/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/commonContract/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/eosaccount/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/eosleased/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/eosmainchain/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/eosram/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/eosresourcessos/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/eosscan/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/eosvote/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/etherscantokenupdate/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/financialPlan/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/id/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/invitedFriends/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/note/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/password/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/pieBank/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/piestore/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/privateKeyImport/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/raq/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/send/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/soft/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/tokenFactory/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/tx/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/locale/en/LC_MESSAGES/version/index.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/otc/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/piestore/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/privateKeyImport/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/tokenFactory/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/vip/index.rst" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
     </list>
     <ignored path="docs.iws" />
@@ -23,11 +117,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/Introduction/index.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.po" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/Introduction/index.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,6 +229,50 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="locale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LC_MESSAGES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Introduction" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -376,9 +534,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -755,8 +913,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/index.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Introduction/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/locale/en/LC_MESSAGES/Introduction/index.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
