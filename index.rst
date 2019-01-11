@@ -10,9 +10,6 @@
    :maxdepth: 2
    :caption: 目录:
 
-
-
-
-  vip/index
+   vip/index
 
 
